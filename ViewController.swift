@@ -4,7 +4,7 @@
 //
 //  Created by Cole Burkhart on 1/10/18.
 //  Copyright © 2018 Cole Burkhart. All rights reserved.
-//
+//  High Point University
 
 import UIKit
 
